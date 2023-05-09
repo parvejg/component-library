@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Component Library</h1>
-      <p>contents</p>
+      <p>contentss</p>
       <Button/>
     </div>
   );
